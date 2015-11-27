@@ -1,0 +1,7 @@
+### Reflect: Initializing a Repository
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a repository where I can control the version of files that are tracked.
+
+### Reflect: Staging Area
+How is the staging area different from the working directory and the repository? What value do you think it offers?
